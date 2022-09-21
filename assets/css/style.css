@@ -61,7 +61,6 @@ h3 {
 /* all p elements has a bottom margin of 10px */
 p {
   margin-bottom: 1rem;
-  font-size: 1.6rem;
 }
 
 /* code element changes font to a computer monospace*/
@@ -88,7 +87,7 @@ header {
   text-align: center;
   width: 96%;
   margin: 0 auto;
-  padding:2.5rem;
+  padding: 1.5rem;
   color: var(--color1);
 }
 
