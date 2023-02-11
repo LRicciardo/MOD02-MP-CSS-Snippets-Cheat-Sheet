@@ -5,6 +5,9 @@
 ## <center><font color="blue">**Description**</font></center>
 CSS Snippets Cheat Sheet for fast reference to CSS Flexbox, Grid, and other syntax.
 
+GitHub Page: https://lricciardo.github.io/MOD02-MP-CSS-Snippets-Cheat-Sheet/
+GitHub Repository: https://github.com/LRicciardo/MOD02-MP-CSS-Snippets-Cheat-Sheet
+
 
 ## User Story
 
